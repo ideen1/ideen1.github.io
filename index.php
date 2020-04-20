@@ -1,4 +1,4 @@
 <?php
-phptest();
+echo "Hellow World!";
 
 ?>
